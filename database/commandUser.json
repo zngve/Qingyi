@@ -1,0 +1,56 @@
+[
+  {
+    "jid": "6282218023461@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 4
+      }
+    ]
+  },
+  {
+    "jid": "6285336272480@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 18
+      },
+      {
+        "nama": "#sticker",
+        "count": 14
+      },
+      {
+        "nama": "#infobot",
+        "count": 2
+      },
+      {
+        "nama": "#cecan",
+        "count": 4
+      },
+      {
+        "nama": "#waifu",
+        "count": 1
+      },
+      {
+        "nama": "#say",
+        "count": 1
+      },
+      {
+        "nama": "#stickerwm",
+        "count": 2
+      },
+      {
+        "nama": "#qc",
+        "count": 14
+      },
+      {
+        "nama": "#attp",
+        "count": 4
+      },
+      {
+        "nama": "#dashboard",
+        "count": 1
+      }
+    ]
+  }
+]
